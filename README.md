@@ -77,3 +77,7 @@ GREENPLATFORM-ZIP/
 ├── .firebaserc
 ├── .github/workflows/
 │   └── firebase-hosting.yml
+
+git add README.md
+git commit -m "Add CI/CD workflow explanation"
+git push origin main
